@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MLTest</string>
+    <string name="translated_text_hint">Translated text</string>
+    <string name="downloaded_models_label">Downloaded models: %1$s</string>
+    <string name="translate_progress">Translating...</string>
+    <string name="delete_model">Delete Model</string>
+    <string name="download_model">Download Model</string>
+    <string name="unknown_error">Unknown error occurred.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
